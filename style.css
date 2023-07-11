@@ -36,6 +36,7 @@ header {
 .flower-description {
   color: rgba(39, 39, 39, 0.6);
   font-size: 18px;
+  padding-right: 65px;
 }
 
 .header-picture {
